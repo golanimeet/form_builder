@@ -5,7 +5,8 @@ export default function Submissions() {
     <div>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit, rerum!</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus.</p>
-      {/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet, deserunt.</p> */}
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus.</p>
+      {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus.</p> */}
     </div>
   )
 }
