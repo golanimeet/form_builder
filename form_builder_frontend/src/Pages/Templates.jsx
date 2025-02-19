@@ -5,6 +5,8 @@ export default function Templates() {
     <>
       <div>Templates</div>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, in.</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, in.</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, in.</p>
     </>
   )
 }
